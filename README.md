@@ -1,1 +1,1 @@
-https://rishabhsahu19.github.io/textutils/app.js
+https://rishabhsahu19.github.io/textutils/
